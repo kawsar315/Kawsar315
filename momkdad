@@ -1,3 +1,6 @@
+link to control
+
+bash core/control.sh
 #!/data/data/com.termux/files/usr/bin/bash
 
 # 📛 تعريف النظام
