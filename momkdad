@@ -13,3 +13,7 @@ bash voice/listen.py 2>/dev/null &
 
 # ✅ تشغيل واجهة الأوامر تحت إشراف القائد
 bash core/control.sh
+
+bash engine/load.sh
+
+bash engine/init.sh
